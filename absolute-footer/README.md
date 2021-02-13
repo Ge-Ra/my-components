@@ -1,0 +1,1 @@
+Absolute footer practice
