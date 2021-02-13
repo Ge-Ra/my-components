@@ -1,1 +1,1 @@
-Bootstrap footer practice
+This is a bootstrap footer practice
